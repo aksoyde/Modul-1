@@ -1,0 +1,8 @@
+﻿  ConsoleApplication11.cpp
+c:\users\anton\source\repos\consoleapplication11\consoleapplication11\consoleapplication11.cpp(52): warning C4150: удаление указателя на неполный тип "Beta"; деструктор не вызван
+  c:\users\anton\source\repos\consoleapplication11\consoleapplication11\consoleapplication11.cpp(10): note:  см. объявление "Beta"
+c:\users\anton\source\repos\consoleapplication11\consoleapplication11\consoleapplication11.cpp(53): warning C4150: удаление указателя на неполный тип "Gamma"; деструктор не вызван
+  c:\users\anton\source\repos\consoleapplication11\consoleapplication11\consoleapplication11.cpp(11): note:  см. объявление "Gamma"
+c:\users\anton\source\repos\consoleapplication11\consoleapplication11\consoleapplication11.cpp(81): warning C4150: удаление указателя на неполный тип "Gamma"; деструктор не вызван
+  c:\users\anton\source\repos\consoleapplication11\consoleapplication11\consoleapplication11.cpp(11): note:  см. объявление "Gamma"
+  ConsoleApplication11.vcxproj -> C:\Users\Anton\source\repos\ConsoleApplication11\Debug\ConsoleApplication11.exe

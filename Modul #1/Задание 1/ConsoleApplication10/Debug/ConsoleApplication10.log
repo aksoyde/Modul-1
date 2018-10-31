@@ -1,0 +1,4 @@
+﻿  ConsoleApplication10.cpp
+c:\users\anton\source\repos\consoleapplication10\consoleapplication10\consoleapplication10.cpp(42): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anton\source\repos\consoleapplication10\consoleapplication10\consoleapplication10.cpp(32): warning C4715: f: значение возвращается не при всех путях выполнения
+  ConsoleApplication10.vcxproj -> C:\Users\Anton\source\repos\ConsoleApplication10\Debug\ConsoleApplication10.exe
